@@ -26,7 +26,7 @@ To compile and run this project, you need:
 - The `doctest` testing framework
 
 
-## Game Rules and Flow
+## Game Rules and Flow:
 
 The game consists of several turns where players take actions such as rolling dice, placing roads and settlements, trading resources, and buying development cards. The game proceeds as follows:
 
